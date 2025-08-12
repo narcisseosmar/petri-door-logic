@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'place-active': 'hsl(var(--place-active))',
+				'place-inactive': 'hsl(var(--place-inactive))',
+				'place-border': 'hsl(var(--place-border))',
+				'transition-enabled': 'hsl(var(--transition-enabled))',
+				'transition-disabled': 'hsl(var(--transition-disabled))',
+				'token': 'hsl(var(--token))',
+				'flow-bg': 'hsl(var(--flow-bg))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
